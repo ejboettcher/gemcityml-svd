@@ -337,7 +337,7 @@ plt.show()
 Let's take a look at how SVD can be used for image compression.
 
 <br>
-(tutorial)[https://sthalles.github.io/svd-for-regression/]
+[tutorial](https://sthalles.github.io/svd-for-regression/)
 
 
 ---
