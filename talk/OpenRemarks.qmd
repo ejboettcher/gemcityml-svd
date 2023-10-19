@@ -1,0 +1,272 @@
+---
+title: "Gem City ML"
+subtitle: "Welcome"
+date: "July 20th, 2023"
+author: "Presented by Evelyn J. Boettcher"
+title-slide-attributes:
+    data-background-image: 'img/logos/gem_cityML_slide.png'
+    data-background-size: "100% 100% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+format:
+    revealjs:
+        incremental: false
+fig-cap-location: margin
+
+---
+
+## Gem City ML
+
+:::{.columns}
+::::{.column width=75%}
+
+Gem City ML's goal is to have a space where people can present and learn new ML/AI ideas, ask for help on problems they are working on, and meet new people.
+
+<br>
+
+
+We have short talks about machine learning (ML) and how to get into this field.
+
+<br>
+
+
+The format is:
+
+* Social: ~ 30 min
+* Lecture: ~ 1 hour
+* Social: ~ 30 min
+
+Talks have ranged from MLOps, modeling CO2 to predict occupancy, to A/B Testing.
+
+<br>
+
+#### Meetings: 
+
+- **Time:** Third Thursday at 6pm
+- **Location:** the Innovation Hub / Arcade in Downtown Dayton
+
+::::
+::::{.column width=23%}
+![Meetup](./img/GemCity_meetup_qr.png)
+: Meetup
+![Discord](./img/gemcity_discord_qr.png)
+: Discord
+
+::::
+:::
+
+## Gem City Tech
+
+:::{.columns}
+::::{.column width=75%}
+
+
+GemCity TECH’s <span style="font-size:1.25em;">mission</span> is to grow the Dayton's industry and the community by providing a centralized destination for
+technical training, workshops and providing a forum for collaborating.
+
+<br>
+
+Currently, supports several special interest groups from a variety of technical disciplines.
+
+
+- Dayton Web Developers
+- Dayton Dynamic Languages
+- Dayton .net Developers
+- Gem City Games Developments
+- New to Tech
+- Frameworks
+- **Machine Learning / Artificial Intelligence (ML/AI)**
+- Code for Dayton
+- Gem City Mechatronics
+- Autonomous Miami Valley
+
+::::
+::::{.column width=23%}
+![Meetup](./img/GemCity_meetup_qr.png)
+: Meetup
+![Discord](./img/gemcity_discord_qr.png)
+: Discord
+::::
+:::
+
+
+---
+
+:::{.columns}
+::::{.column width=10%}  
+![](img/gem_city_social.png)  
+::::
+::::{.column width=10%}
+![](img/GemCityMechatronicsLogo_Transparent.png)
+::::  
+::::{.column width=10%}
+![](img/CodeForDayton.png)
+::::
+::::{.column width=7%}
+![](img/New_To_Tech_Mascot.png)
+::::
+::::{.column width=10%}
+![](img/Dayton_Web_Developers.png)
+::::
+::::{.column width=10%}
+![](img/DDLLogo.png)
+::::
+::::{.column width=10%}
+![](img/AutonomousMiamiValleyLogo.png)
+::::
+::::{.column width=10%}
+![](img/DaytonDotNet.png)
+::::
+::::{.column width=10%}
+![](img/GemCityGameDevelopers.png)
+::::
+::::{.column width=10%}
+![](img/Frameworks.png)
+::::
+:::
+
+**Gem City ML / AI**  **Meets:** 3rd Thursdays 6pm
+
+<br>
+
+**Gem City Mechatronics** - A community of electronics enthusiasts **LAB NIGHT**: 1st Monday 6pm **THEORY NIGHT**: 3rd Tuesday 6pm
+
+<br>
+
+**Code For Dayton** -  Civic oriented projects.  **Hack Night** 1st Tuesday 6pm.
+
+<br>
+ 
+**New to Tech** - Focused entry level software dev.   **Meets:** 1st Tuesdays 6pm
+
+<br>
+
+**Dayton Web Developers** - General topics for modern web developement  **Meets:** 1st Wednesdays 6pm 
+
+<br>
+ 
+**Dayton Dynamic Languages** - Lean towards Python, Scheme, and Smalltalk, (d8ndl.org) **Meets:** 2nd Wednesdays 7pm
+
+<br>
+
+**Autonomous Miami Valley** - The Autonomous MV user group  **Meets:** 2nd Tuesdays 5pm 
+
+<br>
+
+**Dayton .NET Developers** - Helping software developers through managers stay current in .NET-related tech. **Meets:** 2nd Tuesdays 6pm
+
+<br>
+ 
+**Gem City Game Developers** - Exploring all topics around gaming and the gaming industry.  **Meets:** 2nd Thursdays 5:30pm 
+
+<br>
+
+**Frameworks** Explore a balance of **both** frontend web DESIGN topics and frontend web DEVELOPMENT topics.  **Meets:** 3rd Wednesdays 6pm 
+
+---
+
+## Big Thanks to our Sponsors
+
+<br>
+<br>
+
+:::{.columns}
+::::{.column width=30%}
+#### Gem City Tech
+![](./img/logos/GCTLogo.png)
+::::
+::::{.column width=30%}
+#### The Hub
+ ![](./img/logos/The-Hub-Logo-PNC.jpg)
+::::
+::::{.column width=30%}
+#### Technology First
+ ![](./img/logos/tech_first_logo.jpg)
+::::
+::::
+
+<br>
+
+:::{.columns}
+::::{.column width=30%}
+#### Human IT
+![](./img/logos/HumanIT-Logo.png)
+::::
+::::{.column width=30%}
+#### Pizza Factory
+![](./img/logos/pizzalogo.png)
+::::
+::::{.column width=30%}
+#### Kable Academy
+![](./img/logos/KableAcademy_Logo_HR.jpg)
+::::
+:::
+
+
+* GemCity TECH: [GemCity.Tech](https://Gemcity.tech)
+* The Innovation Hub: [thehubdayton.com](https://www.thehubdayton.com/)
+* Technology First: [www.technologyfirst.org](https://www.technologyfirst.org/)
+* Human IT: [https://humanit.us/](https://humanit.us/)
+* Pizza Factory: [https://pizzafactory.biz/](https://pizzafactory.biz/)
+* Kable Academy: Kable Academy puts tech careers within reach for those willing to explore a life in IT. They are change agents, who wield the tools of education, accessibility, and connection.
+
+---
+
+## Code of Conduct
+
+We expect everyone in our space to abide by this Code of Conduct. This includes event attendees, community organizers, sponsors, guests, and board members. Violation of this Code of Conduct could result in being removed from the GemCity TECH community and no longer having access to the associated benefits. If you witness a violation of our Code of Conduct, please notify us. Always feel empowered to say something and please escalate any concerns immediately to someone on the staff or leadership team or email help@gemcity.tech.
+
+### Welcome Everyone
+
+Our community members are our family. Come hang out with us to learn and collaborate on a wide range of technology topics. We do not tolerate discrimination of any kind, especially on the basis of race, ethnicity, gender, religion, sexual orientation, national origin, disability, gender identity, socioeconomic status, or citizenship status. We are committed to creating a non-hostile meeting and event space for all.
+
+### Treat Others & The Space With Respect
+
+Respect and allow everyone to express their opinions, concerns, and needs. Listen with the intention to understand. Respect the privacy of everyone in our community.
+
+Please pick up after yourself. Treat communal spaces with respect. If you move something, put it back. Leave the space as you found it or better.
+
+### Harassment Is Not Tolerated
+
+We do not tolerate harassment of any kind. Unwanted texting, calling, emailing, following, stalking, badgering, intimidating, or threatening will result in being removed from the GemCity TECH community.
+
+Harassment also includes sexual harassment in any form such as teasing, jokes, innuendos, images, gestures, touching, grabbing, or giving gifts of a sexual or unwanted nature.
+
+If someone tries to move on from the conversation, let them go. If someone explicitly tells you to leave them alone, then leave them alone. If you are unsure if your behavior is inappropriate, don’t do it. Always err on the side of making a comfortable environment based on the other person’s standards, not your own.
+
+### Professional Environment
+
+GemCity TECH is a community of event attendees, community organizers, sponsors, guests, and board members. This is a professional environment and should be treated as such. These are your peers, so please treat each other like peers. Be courteous, kind, and respectful at all times.
+
+### Diversity Encouraged & Celebrated
+
+GemCity TECH is committed to building a diverse and inclusive community and believe doing so will lead to better overall collaboration.
+
+### Pay It Forward
+
+Being part of our community means helping each other out without expectation of anything in return. Help other members of the community by making introductions, sharing your experience, or just listening.
+
+### Abide By The Law
+
+Do not participate in any illegal activities.
+
+We do not allow the use of illegal drugs, illegal hacking, and anything that would put our community in jeopardy.
+
+Smoking, vaping, or chewing is not allowed in our space.
+
+Do not take other people’s physical property. Do not take other people’s intellectual property…but, we encourage you to contribute to open source.
+
+The GemCity TECH Code of Conduct is a living document managed by our community. If you have any suggestions, please feel free to contact us.
+
+---
+
+## Other
+
+### Bathrooms
+
+Bathrooms are located in the building
+
+### Nearest exit
+
+## Now,  for our first speaker...
+
