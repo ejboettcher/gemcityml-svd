@@ -318,11 +318,21 @@ test_mse = np.mean(np.sqrt((test_predictions - y_test)**2))
 print("Train Mean Squared Error:", train_mse)
 print("Test Mean Squared Error:", test_mse)
 plt.show()
+
 ```
+
 
 ---
 
-## What, explain again what an SVD does.
+## ?
+
+---
+
+## What
+### Explain again what an SVD does.
+
+<br>
+<br>
 
 Let's take a look at how SVD can be used for image compression.
 
