@@ -18,14 +18,19 @@ fig-cap-location: margin
 ## Ax-b = 0
 ### System of Linear Equations
 
-Solving a  system of linear equations is fast. <br>
+Solving a  system of linear equations is fast. 
 
-It can easily handle, quickly large data. <br>
+<br>
+<br>
+It can easily and quickly handle large data. 
 
-So if you can get your problems into the `Ax=b` form your golden.
+<br>
+
+So if you can get your problems into the `Ax=b` form; your golden.
 
 ---
 
+## Ax=b, in action
 #### System of linear equations
 
 ```bash
@@ -116,7 +121,9 @@ print( tuple(x))
 
 This is where **SVD** (Single Value Decomposition) comes to the rescue. <br>
 
-Beyond solving a system of linear equations. <br>
+Beyond solving a system of linear equations. 
+
+<br>
 It is used for:
 
 * It is used to compress images
@@ -132,13 +139,15 @@ As long as you can get your problem into the `Ax=b` form.
 
 Singular value decomposition (SVD) is a factorization of a real or complex matrix. 
 
+<br>
+
 SVD of Matrix A is: <br>
 
 * SVD(A) = $U \Sigma V^T$ 
 
 <br>
 
-So when we have the equation system `Ax=b`
+So when we system that can be written as: `Ax=b`
 
 * We can solve for x by:
 
@@ -158,16 +167,19 @@ Take a minute and google how to multiply matrixs
 <br>
 <br>
 
-Great resource [SVD Tutorial](https://sthalles.github.io/svd-for-regression/)
+Great resource: [SVD Tutorial](https://sthalles.github.io/svd-for-regression/)
 
 
 
 ## Sun Spots predictions
 
-There exists a data of the number of sun spots observed over a month, spanning hundred of years.
+There exists a data set that contains the number of sun spots observed for a given month, spanning hundreds of years.
+<br>
 <br>
 
 [https://github.com/ejboettcher/GemCity-ML-AI_Random](https://github.com/ejboettcher/GemCity-ML-AI_Random)
+
+<br>
 <br>
 
 In the above tutorial, I used tensorflow, WITH GPU and it took several minutes to train the algorithm to predict sunspot activity.
@@ -307,3 +319,19 @@ print("Train Mean Squared Error:", train_mse)
 print("Test Mean Squared Error:", test_mse)
 plt.show()
 ```
+
+---
+## What, explain again what an SVD does.
+
+Let's take a look at how SVD can be used for image compression.
+
+<br>
+(tutorial)[https://sthalles.github.io/svd-for-regression/]
+
+
+---
+
+## Thank you
+
+SVD can just do it.  You just need to get it into the Ax=B form.
+

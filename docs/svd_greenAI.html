@@ -411,12 +411,13 @@ Presented by Evelyn J. Boettcher
 <section id="ax-b-0" class="slide level2">
 <h2>Ax-b = 0</h2>
 <h3 id="system-of-linear-equations">System of Linear Equations</h3>
-<p>Solving a system of linear equations is fast. <br></p>
-<p>It can easily handle, quickly large data. <br></p>
-<p>So if you can get your problems into the <code>Ax=b</code> form your golden.</p>
+<p>Solving a system of linear equations is fast.</p>
+<p><br> <br> It can easily and quickly handle large data.</p>
+<p><br></p>
+<p>So if you can get your problems into the <code>Ax=b</code> form; your golden.</p>
 </section>
-<section class="slide level2">
-
+<section id="axb-in-action" class="slide level2">
+<h2>Ax=b, in action</h2>
 <h4 id="system-of-linear-equations-1">System of linear equations</h4>
 <div class="sourceCode" id="cb1"><pre class="sourceCode numberSource bash number-lines code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1"></a><span class="ex">3x</span> + 4y = 19</span>
 <span id="cb1-2"><a href="#cb1-2"></a><span class="ex">2y</span> + 3z = 8</span>
@@ -484,7 +485,8 @@ b = \begin{bmatrix}
 <h2>What if you don’t have a “Full Rank” matrix</h2>
 <h3 id="or-systems-that-can-be-fulled-solved">Or systems that can be fulled solved?</h3>
 <p>This is where <strong>SVD</strong> (Single Value Decomposition) comes to the rescue. <br></p>
-<p>Beyond solving a system of linear equations. <br> It is used for:</p>
+<p>Beyond solving a system of linear equations.</p>
+<p><br> It is used for:</p>
 <ul>
 <li>It is used to compress images</li>
 <li>Find main features (see compressed images)</li>
@@ -496,12 +498,13 @@ b = \begin{bmatrix}
 <section id="svd" class="slide level2">
 <h2>SVD</h2>
 <p>Singular value decomposition (SVD) is a factorization of a real or complex matrix.</p>
+<p><br></p>
 <p>SVD of Matrix A is: <br></p>
 <ul>
 <li>SVD(A) = <span class="math inline">\(U \Sigma V^T\)</span></li>
 </ul>
 <p><br></p>
-<p>So when we have the equation system <code>Ax=b</code></p>
+<p>So when we system that can be written as: <code>Ax=b</code></p>
 <ul>
 <li>We can solve for x by:</li>
 </ul>
@@ -514,12 +517,13 @@ x^\prime = V \Sigma U^T b
 <h2>Wow that was clear.</h2>
 <p>Take a minute and google how to multiply matrixs</p>
 <p><br> <br></p>
-<p>Great resource <a href="https://sthalles.github.io/svd-for-regression/">SVD Tutorial</a></p>
+<p>Great resource: <a href="https://sthalles.github.io/svd-for-regression/">SVD Tutorial</a></p>
 </section>
 <section id="sun-spots-predictions" class="slide level2">
 <h2>Sun Spots predictions</h2>
-<p>There exists a data of the number of sun spots observed over a month, spanning hundred of years. <br></p>
-<p><a href="https://github.com/ejboettcher/GemCity-ML-AI_Random">https://github.com/ejboettcher/GemCity-ML-AI_Random</a> <br></p>
+<p>There exists a data set that contains the number of sun spots observed for a given month, spanning hundreds of years. <br> <br></p>
+<p><a href="https://github.com/ejboettcher/GemCity-ML-AI_Random">https://github.com/ejboettcher/GemCity-ML-AI_Random</a></p>
+<p><br> <br></p>
 <p>In the above tutorial, I used tensorflow, WITH GPU and it took several minutes to train the algorithm to predict sunspot activity. And it was good.</p>
 <p><br> <br></p>
 <h3 id="can-svd-predict-sunspot-activity-and-faster">Can SVD predict sunspot activity and faster?</h3>
@@ -665,9 +669,29 @@ Test Mean Squared Error: 13.688869408003756</code></pre>
 <p><img data-src="svd_greenAI_files/figure-revealjs/cell-5-output-2.png" class="margin-caption" width="798" height="422"></p>
 </div>
 </div>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>## What, explain again what an SVD does.</td>
+</tr>
+<tr class="even">
+<td>Let’s take a look at how SVD can be used for image compression.</td>
+</tr>
+<tr class="odd">
+<td><br> (tutorial)[https://sthalles.github.io/svd-for-regression/]</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="thank-you" class="slide level2">
+<h2>Thank you</h2>
+<p>SVD can just do it. You just need to get it into the Ax=B form.</p>
 
-<p><img src="img/logos/DidactexLogo.png" class="slide-logo"></p>
-<div class="footer footer-default">
+
+<img src="img/logos/DidactexLogo.png" class="slide-logo r-stretch"><div class="footer footer-default">
 <p>Gem City Tech ML/AI</p>
 </div>
 </section>

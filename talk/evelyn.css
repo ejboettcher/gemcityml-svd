@@ -116,11 +116,15 @@ input[type="checkbox"]:disabled {
   max-height: 4vw !important;
 
 }
-.reveal div.sourceCode{
+
+.sourceCode{
   margin-bottom: 1em;
   overflow: auto;
+  font-size: 1.05em !important;
 }
-
-
+div.code {
+  font-family: monospace;
+  font-size: 0.98em !important;
+  }
 
 }
